@@ -30,6 +30,13 @@ def test_SecondCreditCard():
     assert a+2 == 6, "Addition do not match"
 
 
+def test_SecondCreditCard():
+    a = 10
+    b = 20
+    assert a-b == 5, "Subraction do not match"
+
+
+
 
 
 
