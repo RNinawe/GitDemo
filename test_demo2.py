@@ -31,7 +31,7 @@ def test_SecondCreditCard():
 
 
 def test_ThirdCreditCard():
-    a = 10
+    a = 90
     b = 20
     assert a-b == 9, "Subraction do not match"
 
